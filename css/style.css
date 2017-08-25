@@ -4,8 +4,9 @@ body{
 }
 
 .videoContainer {
-  width: 98vw; /*now it is 100% of viewport (window) width.*/
-  height: 91vh;
+  width:98vw;
+  max-width: 1575px; /*now it is 100% of viewport (window) width.*/
+  max-height: 91vh;
   margin: 0 auto;
   display: inline-block;
   position: relative;
