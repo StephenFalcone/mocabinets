@@ -6,6 +6,7 @@ body{
   width:97vw;
   max-width: 1540px; /*now it is 100% of viewport (window) width.*/
   max-height: 89vh;
+  min-height: 150px;
   display: inline-block;
   position: relative;
 }
