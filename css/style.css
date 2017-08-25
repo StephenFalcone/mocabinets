@@ -1,13 +1,11 @@
 body{
-	margin: 0;
-	padding-left: 10px;
+	margin: .5%;
 }
 
 .videoContainer {
-  width:98vw;
-  max-width: 1575px; /*now it is 100% of viewport (window) width.*/
-  max-height: 91vh;
-  margin: 0 auto;
+  width:99vw;
+  max-width: 1560px; /*now it is 100% of viewport (window) width.*/
+  max-height: 90vh;
   display: inline-block;
   position: relative;
 }
@@ -23,6 +21,5 @@ body{
   width:100%;
   height:100%;
   position:absolute;
-  top:0;
-  left:0;
+
 }
