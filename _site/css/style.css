@@ -1,11 +1,11 @@
 body{
-  margin:0;
-  padding-left: 5px;
+
 }
 
 .videoContainer {
   width: 98vw; /*now it is 100% of viewport (window) width.*/
-  height: 92vh;
+  height: 91vh;
+  margin: 0 auto;
   display: inline-block;
   position: relative;
 }
