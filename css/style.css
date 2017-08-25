@@ -3,7 +3,7 @@ body{
 }
 
 .videoContainer {
-  width: 100vw; /*now it is 100% of viewport (window) width.*/
+  width: 95vw; /*now it is 100% of viewport (window) width.*/
   display: inline-block;
   position: relative;
 }
